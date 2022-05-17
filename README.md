@@ -1,1 +1,1 @@
-# Python file to save all my assignments
+# Python practice repo
